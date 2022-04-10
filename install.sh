@@ -24,8 +24,6 @@ apm install zentabs
 apm install emmet
 apm install autoclose-html-plus
 apm install atom-liquid-snippets
-apm install liquid-language
 apm install expose
-apm install auto-complete-paths
 apm install script
 apm install turbo-javascript
